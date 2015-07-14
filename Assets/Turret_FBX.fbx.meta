@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 4b10bb47fc26f4247acf447384279cf8
+timeCreated: 1434974100
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ammo_Cargo
+    100002: Angle
+    100004: back
+    100006: bottom
+    100008: bridge
+    100010: group1
+    100012: Gunpipe
+    100014: left
+    100016: Telescope
+    100018: Turntable
+    100020: //RootNode
+    100022: Turretfoot
+    400000: Ammo_Cargo
+    400002: Angle
+    400004: back
+    400006: bottom
+    400008: bridge
+    400010: group1
+    400012: Gunpipe
+    400014: left
+    400016: Telescope
+    400018: Turntable
+    400020: //RootNode
+    400022: Turretfoot
+    2300000: Ammo_Cargo
+    2300002: Angle
+    2300004: bridge
+    2300006: Gunpipe
+    2300008: Telescope
+    2300010: Turntable
+    2300012: Turretfoot
+    3300000: Ammo_Cargo
+    3300002: Angle
+    3300004: bridge
+    3300006: Gunpipe
+    3300008: Telescope
+    3300010: Turntable
+    3300012: Turretfoot
+    4300000: Angle
+    4300002: Turretfoot
+    4300004: Turntable
+    4300006: Gunpipe
+    4300008: Telescope
+    4300010: bridge
+    4300012: Ammo_Cargo
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
